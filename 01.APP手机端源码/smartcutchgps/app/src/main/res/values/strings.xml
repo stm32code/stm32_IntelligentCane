@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">个人健康-GPS</string>
+    <string name="debug">调试</string>
+    <string name="history">记录</string>
+</resources>
